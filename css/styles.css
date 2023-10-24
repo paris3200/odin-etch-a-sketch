@@ -1,0 +1,14 @@
+.row{
+  display: flex;
+}
+
+.square{
+  height: 16px;
+  width: 16px; 
+  margin: 1px;
+  background-color: lightgray;
+}
+
+body {
+  width: 960px;
+}
