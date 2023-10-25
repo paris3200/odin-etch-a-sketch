@@ -1,3 +1,11 @@
+body {
+  height: 100vh;
+  margin: 0;
+  overflow: hidden;
+  font-family: Roboto, sans-serif;
+}
+
+
 .row{
   display: flex;
 }
@@ -9,6 +17,3 @@
   background-color: lightgray;
 }
 
-body {
-  width: 960px;
-}
